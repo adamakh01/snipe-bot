@@ -17,7 +17,7 @@ TBD
    3. Get your token by clicking "Reset Token" to generate a new Token. NOTE: You can't view the token again unless you generate a new one, so keep it safe!
   
 
-#### Running the Bot
+### Running the Bot
 
   1. Install dependencies using uv:
   
