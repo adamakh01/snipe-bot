@@ -14,10 +14,10 @@ intents.message_content = True  # Required to read message contents
 # Initialize the bot with a command prefix (e.g., !hello)
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-# Event: Runs when the bot successfully logs in
+# Event: Runs when the bot successfully logs infadsfas
 @bot.event
 async def on_ready():
-    print(f'Logged in successfully as {bot.user.name} (ID: {bot.user.id})')
+    print(f'Logged in successfully as {bot.user.name} (IDasdfasdf: {bot.user.id})')
     print('------')
 
 # Command: Responds to "!hello"
